@@ -23,12 +23,22 @@
 .nav-txt {
     margin-top: 1rem;
 }
+
+.nav-txt h4{
+    color: white;
+}
+
 .nav-items{
     display: flex;
     color: white;
-    padding-top: 5%;
+    padding-top: 1rem;
     align-items: center;
     gap: 1rem;
+}
+
+li {
+    color: white;
+    list-style: none;
 }
 
 

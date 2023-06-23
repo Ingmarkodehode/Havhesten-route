@@ -1,0 +1,14 @@
+.aktiviteter-title{
+    text-align: center;
+}
+
+.barnebursdag-container{
+    display: flex;
+    text-align: center;
+    align-content: center;
+}
+
+.barnebursdag-info{
+    margin: auto;
+    
+}

@@ -1,0 +1,26 @@
+.part1-main{
+    /* background-image: url(../assets/basseng\ med\ leker.jpg); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:auto;
+    height: 400px;
+    border-top: solid;
+    padding: 40px 41px 21px;
+    justify-content: center;
+    text-align: center;
+    
+}
+.box1{
+    display: flex;
+    background-color: white;
+    color: black;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 20rem;
+}
+.box2{
+    text-align: center;
+    justify-content: center;
+}
+

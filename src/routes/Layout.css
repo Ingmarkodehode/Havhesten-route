@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    place-items: center;
+}
+.nav-bar{
+    display: flex;
+    width: 100vw;
+    flex-grow: initial;
+    background-color: #2F2E7C;
+    color: white;
+    padding: 1rem 2rem;
+}
+
+.main-logo{
+    height: 70px;
+    padding-right: 1rem;
+}
+
+.nav-txt {
+    margin-top: 1rem;
+}
+.nav-items{
+    display: flex;
+    color: white;
+    padding-top: 5%;
+    align-items: center;
+    gap: 1rem;
+}
+
+

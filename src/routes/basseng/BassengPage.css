@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+
+.basseng-main {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+}
+
+.basseng-main-header{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.main-basseng{
+    display: flex;
+    flex-direction: row;
+    /* flex-basis: auto; */
+    max-width: 100vw;
+    min-width: 300px;
+    flex-shrink: 1;
+    margin: 10px 0;
+    justify-content: space-evenly;
+}
+
+.basseng-main-img img{
+    display: inherit;
+    /* flex-shrink: 50%; */
+    justify-self: center;
+    max-width: 700px;
+    min-width: 300px;
+    /* margin-right: 10px; */
+}
+
+.main-basseng-txt{
+    font-family: 'Questrial', sans-serif;
+}
+
+.terapi-basseng{
+    display: flex;
+    flex-direction: row;
+    max-width: 100wv;
+    justify-content:space-evenly;
+}

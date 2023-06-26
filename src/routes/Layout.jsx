@@ -15,10 +15,12 @@ export function Layout() {
             <h4>Havhesten</h4>
           </Link>
           <div className="nav-items">
-              <Link to="/aktiviteter">
-            <li>Aktiviteter</li>
-              </Link>
-            <li>{/* <Link to="/">Basseng</Link> */}</li>
+            <Link to="/aktiviteter">
+              <li>Aktiviteter</li>
+            </Link>
+            <Link to="/basseng">
+              <li>Basseng</li>
+            </Link>
           </div>
         </div>
       </nav>
